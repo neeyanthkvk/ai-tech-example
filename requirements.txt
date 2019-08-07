@@ -1,0 +1,6 @@
+requests==2.18.4
+lxml==4.2.1
+Flask==1.0.2
+flask_bootstrap==3.3.7.1
+flask_oauthlib==0.9.5
+flask_oidc==1.4.0
